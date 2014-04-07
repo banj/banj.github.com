@@ -1,12 +1,12 @@
-title:            Mu-An Chiou - @muanchiou || @muan
-url:              http://muan.co
+title:            banj - @banjerbee || @banj
+url:              http://www.naturevsindustry.com
 permalink:        pretty
 pygments:         true
 markdown:         rdiscount
 rdiscount:
   extensions:     [smart]
-google_analytics: UA-21332781-7
-timezone:         Europe/London
+google_analytics: 
+timezone:         
 paginate: 5
 gems:
   - jemoji

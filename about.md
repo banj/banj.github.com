@@ -3,20 +3,20 @@ layout: post
 title: About 
 ---
 
-**Mu-An Chiou** <small>(**邱慕安**)</small>. <br />
-[Design Superhero](https://github.com/blog/1568-mu-an-chiou-is-a-githubber) at [GitHub](https://github.com) and co-founder of [Zeczec](http://zeczec.com). 
+**Benjamin Donald** <small>(**banj**)</small>. <br />
+[Gentleman Adventurer]() and [GitHub](https://github.com) and co-founder of [Zeczec](http://zeczec.com). 
 
-Originally from [Taipei, Taiwan](https://maps.google.com/maps?q=taipei), lived in the UK (London and Birmingham) for 5 years. Currently based nowhere.
+Originally from [Melbourne, Australia](https://www.google.com/maps/preview?q=melbourne), lived in Canada (Kingston) for 6 months. Currently based in [New York, New York](https://www.google.com/maps/preview?q=newyorkcity).
 
 <br />
 
-[GitHub](https://github.com/muan)
+[GitHub](https://github.com/banj)
 
-[Twitter](https://twitter.com/muanchiou)
+[Twitter](https://twitter.com/banjerbee)
 
-[Dribbble](http://dribbble.com/muan)
+[Dribbble]()
 
-[Speakerdeck](http://speakerdeck.com/muan)
+[Speakerdeck]()
 
 [Blog feed](/feed.xml)
 
