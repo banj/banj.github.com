@@ -1,0 +1,18 @@
+---
+layout: index
+---
+
+<ul class="projects">
+	{% for post in site.projects %}
+	<li class="project">
+		<a href="{{ project.url }}" class="project-link">
+			<h2 class="project-title" title="{{ project.title }}">
+				{{ project.title }}<br />
+			</h2>
+			<span class="meta">
+				<time>{{ project.date | date_to_string }}</time>
+			</span>
+		</a>
+	</li>
+	{% endfor %}
+</ul>
