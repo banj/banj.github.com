@@ -1,5 +1,6 @@
 ---
-layout: post title: Welcome, Friend.
+layout: post
+title: Welcome, Friend.
 date: 2015-06-16 02:25:15
 ---
 
