@@ -1,13 +1,12 @@
-title:            banj - @banjerbee || @banj
-url:              http://www.bdonald.com
+title:            "@banj"
+url:              http://bdonald.com
 permalink:        pretty
-pygments:         true
-markdown:         rdiscount
-rdiscount:
-  extensions:     [smart]
+highlighter:      pygments
 google_analytics: UA-49821100-1
 timezone:         America/New_York
-paginate: 5
+sass:
+  sass_dir: assets
+  style: :compressed
 gems:
   - jemoji
   - jekyll-mentions
